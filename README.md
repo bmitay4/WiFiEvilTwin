@@ -1,4 +1,4 @@
-# WiFiEvilTwin
+# WiFi Evil Twin Package
 ‫‪WiFi‬‬ ‫‪Attack‬‬ ‫&amp;‬ ‫‪Defense‬‬ ‫‪Module‬‬
 
 A tool that allows you to attack a wireless router as well as steal the details of the victims.
